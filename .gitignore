@@ -1,2 +1,5 @@
-**/generated
 **/node_modules/
+**/lib
+**/mapping/generated
+.env
+.vscode
